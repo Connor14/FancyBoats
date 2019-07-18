@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "fancyboats",
+  "name": "Fancy Boats",
+  "description": "A mod that adds fancy boats.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Connor14"],
+  "credits": "The Forge and FML guys, for making modding easier",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
